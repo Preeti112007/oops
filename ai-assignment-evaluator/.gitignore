@@ -1,0 +1,21 @@
+# Node / Frontend
+node_modules/
+dist/
+*.local
+
+# Java / Maven / Backend
+target/
+*.class
+.m2/
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+.DS_Store
+
+# Logs
+*.log

@@ -1,0 +1,15 @@
+# Local environment binaries and dependencies
+.tools/
+.m2/
+.DS_Store
+
+# Dependencies & Build artifacts
+**/node_modules/
+**/dist/
+**/target/
+**/*.class
+**/*.jar
+**/*.war
+
+# Logs & temp
+*.log
